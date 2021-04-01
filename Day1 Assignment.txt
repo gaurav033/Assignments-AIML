@@ -1,0 +1,5 @@
+So in machine learning, we give data to modal
+so it can learn patterns and predict something based on previous data patterns and given data
+a small example of machine learning:
+	If we want to predict salary for employees based on their experience
+	so we must have data that includes experience in the number of years.
